@@ -1,7 +1,8 @@
-### Hello world! 👋
-### Bem vindo ao meu Github.
-
-<hr>
+<h2>Hello world! 👋
+ 
+<br>
+   
+Bem vindo ao meu Github.</h2>
 
 <div align="center">
    <a href="https://github.com/hitalojacome/">
