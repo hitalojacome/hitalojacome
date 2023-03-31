@@ -35,4 +35,3 @@ Bem vindo ao meu Github.</h2>
   </a>
 </div>     
  
-![Snake animation](https://hitalojacome/hitalojacome/blob/output/github-contribution-grid-snake.svg)
