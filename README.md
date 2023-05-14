@@ -14,7 +14,7 @@ Bem vindo ao meu Github.</h2>
    
 <h2>Habilidades:</h2>
 
-<div style="display: inline_block">
+<div style="display: inline_block" align="center">
   <img align="center" alt="HTML" height="40" width="50" title="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="50" title="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="40" width="50" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
