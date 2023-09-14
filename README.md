@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-9B1717?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
  </div>
- 
+ <!--
  # Skills
  <div style="display: inline-block"><br>
    <img align="center" alt="Csharp" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
@@ -39,8 +39,8 @@
    <img align="center" alt="sqlserver" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
    <img align="center" alt="MySQL" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
  </div>
- 
- <br><br>
+ -->
+ <br>
  
 
  
