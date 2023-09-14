@@ -6,11 +6,11 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=ffffff&&center=true&Center=truewidth=100%&lines=+Bem-vindo(a)+ao+meu+GitHub!+👋;Welcome+to+my+GitHub+👋;Me+chamo+Hitalo+Jacome.;My+name+is+Hitalo+Jacome.;Desenvolvedor+WEB.+;WEB+Developer.)](https://git.io/typing-svg)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hitalo-jacome&theme=github_dark&hide_border=true&show_icons=true&hide_boder=true)](https://github.com/anuraghazra/github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hitalojacome&theme=github_dark&hide_border=true&show_icons=true&hide_boder=true)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitalo-jacome&theme=github_dark&layout=compact&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitalojacome&theme=github_dark&layout=compact&hide_border=true" />
 </a> 
   
    <div align="center">
