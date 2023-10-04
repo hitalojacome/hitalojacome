@@ -24,8 +24,8 @@
   <a href="mailto:cmp.1a.jacomehitalo@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-9B1717?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/hitalojacome/&target='blank'">
-    <img src="https://img.shields.io/badge/LinkedIn-9B1717?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://www.linkedin.com/in/hitalojacome/">
+    <img src="https://img.shields.io/badge/LinkedIn-9B1717?style=for-the-badge&logo=linkedin&logoColor=white&target='blank'">
   </a>
  </div>
  <!--
