@@ -10,12 +10,14 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitalojacome&layout=donut&bg_color=0D1117&title_color=FF0000&text_color=FFFF&icon_color=FF0000&hide_border=true" />
 </a> 
-  
+
+<!--
    <div align="center">
 <br><p align="center"><b>Alguns visitantes!</b></p>
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{hitalojacome}/count.svg" /></p>
 <br>
 </div>
+-->
   
  <div align=center>
   
@@ -28,6 +30,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-9B1717?style=for-the-badge&logo=linkedin&logoColor=white&target='blank'">
   </a>
  </div>
+ 
  <!--
  # Skills
  <div style="display: inline-block"><br>
@@ -38,6 +41,7 @@
    <img align="center" alt="MySQL" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
  </div>
  -->
+ 
  <br>
  
 
